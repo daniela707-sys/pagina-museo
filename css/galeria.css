@@ -1,0 +1,506 @@
+body{
+    background-color: rgb(83, 80, 80);
+}
+
+#header{
+    height: 100px;
+    background-color: bisque;
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    margin-right: 500px;
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+    #div{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 20px;
+        width: 50%;
+        padding-left: 10px;
+        margin-bottom: 10px;
+    }
+    
+    
+    #di{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 30px;
+        width: 70%;
+        padding-left: 10px;
+        font-size: 15px;
+    }
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 174, 0);
+}
+
+img{
+    width: 90%;
+    height: 400px;
+    margin: 20px;
+}
+
+#uno{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url(img/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#dos{
+    
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+
+}
+
+#expo{
+    font-size: 30px;
+    color: aliceblue;
+    margin-bottom: 60px;
+}
+
+#hola{
+    width: 50%;
+    height: 500px;
+    margin-bottom: 10px;
+}
+
+#tres{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+#fecha{
+    width: 50%;
+}
+
+@media screen and  (min-width: 891px) and (max-width: 1766px){
+    body{
+        background-color: rgb(83, 80, 80);
+    }
+    
+    #header{
+        height: 100px;
+        background-color: bisque;
+        display: flex;
+        flex-wrap: nowrap;
+        padding: 10px;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    h1{
+        margin-right: 200px;
+        font-size: 40px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    #div{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 20px;
+        width: 50%;
+        padding-left: 10px;
+        margin-bottom: 10px;
+    }
+    
+    
+    #di{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 30px;
+        width: 70%;
+        padding-left: 10px;
+        font-size: 15px;
+    }
+
+    img{
+        width: 80%;
+        height: 300px;
+        margin: 10px;
+    }
+    
+    
+    #uno{
+        width: 100%;
+        height: 500px;
+        display: flex;
+        margin-bottom: 10px;
+        margin-top: 30px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-image: url(img/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    h2{
+        font-size: 50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    h3{
+        font-size: 30px;
+    }
+    
+    #dos{
+        margin-right: 10px;
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+        align-content: center;
+    
+    }
+    
+    #expo{
+        font-size: 30px;
+        color: aliceblue;
+        margin-bottom: 60px;
+    }
+    
+    #hola{
+        width: 50%;
+        height: 500px;
+        margin-bottom: 10px;
+    }
+    
+    #tres{
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+        align-content: center;
+        flex-direction: column;
+    }
+    
+    #fecha{
+        width: 50%;
+    }
+}
+
+@media screen and  (min-width: 571px) and (max-width: 890px){
+    body{
+        background-color: rgb(83, 80, 80);
+    }
+    
+    #header{
+        height: 100px;
+        background-color: bisque;
+        display: flex;
+        flex-wrap: nowrap;
+        padding: 10px;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    h1{
+        margin-right: 200px;
+        font-size: 40px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    #div{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 20px;
+        width: 70%;
+        padding-left: 10px;
+        margin-bottom: 10px;
+    }
+    #di{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 25px;
+        width: 70%;
+        padding-left: 10px;
+        font-size: 11px;
+    }
+    
+    img{
+        width: 80%;
+        height: 300px;
+        margin: 10px;
+    }
+    
+    
+    #uno{
+        width: 100%;
+        height: 500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-image: url(img/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    h2{
+        font-size: 50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    #dos{
+        margin-right: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        align-content: center;
+    
+    }
+    
+    #expo{
+        font-size: 30px;
+        color: aliceblue;
+        margin-bottom: 10px;
+    }
+    
+    #hola{
+        width: 50%;
+        height: 500px;
+    }
+    
+    #tres{
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+        align-content: center;
+        flex-direction: column;
+    }
+    
+    #fecha{
+        width: 50%;
+    }
+}
+
+
+@media screen and  (min-width: 491px) and (max-width: 570px){
+    body{
+        background-color: rgb(83, 80, 80);
+    }
+    
+    #header{
+        height: 100px;
+        background-color: bisque;
+        display: flex;
+        flex-wrap: nowrap;
+        padding: 10px;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    h1{
+        margin-right: 100px;
+        font-size: 20px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    #div{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 20px;
+        width: 70%;
+        padding-left: 10px;
+        margin-bottom: 10px;
+    }
+
+    #di{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 20px;
+        width: 70%;
+        padding-left: 10px;
+        font-size: 10px;
+    }
+
+    img{
+        width: 80%;
+        height: 200px;
+        margin: 10px;
+    }
+    
+    
+    #uno{
+        width: 100%;
+        height: 500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-image: url(img/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    h2{
+        font-size: 30px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    #dos{
+        margin-right: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        align-content: center;
+    
+    }
+    
+    #expo{
+        font-size: 30px;
+        color: aliceblue;
+        margin-bottom: 10px;
+    }
+    
+    #hola{
+        width: 50%;
+        height: 350px;
+        
+    }
+    
+    #tres{
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+        align-content: center;
+        flex-direction: column;
+    }
+    
+    #fecha{
+        width: 50%;
+    }
+}
+
+
+
+@media screen and  (min-width: 280px) and (max-width: 490px){
+    body{
+        background-color: rgb(83, 80, 80);
+    }
+    
+    #header{
+        height: 200px;
+        background-color: bisque;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px;
+        flex-direction: column;
+    }
+    
+    h1{
+        margin-right: 50px;
+        font-size: 30px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-bottom: 10px;
+    }
+    
+    #div{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 20px;
+        width: 100%;   
+        margin-bottom: 10px;
+    }
+
+    #di{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 174, 0);
+        margin-right: 20px;
+        height: 20px;
+        width: 50%;
+        padding-left: 10px;
+        font-size: 10px;
+    }
+
+    img{
+        width: 100%;
+        height: 200px;
+        margin: 10px;
+    }
+    
+    
+    #uno{
+        width: 100%;
+        height: 500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-image: url(img/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    h2{
+        font-size: 30px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    #dos{
+        margin-right: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        align-content: center;
+        flex-direction: column;
+    }
+    
+    #expo{
+        font-size: 30px;
+        color: aliceblue;
+        margin-bottom: 10px;
+    }
+    
+    #hola{
+        width: 50%;
+        height: 350px;
+        
+    }
+    
+    #tres{
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+        align-content: center;
+        flex-direction: column;
+    }
+    
+    #fecha{
+        width: 50%;
+    }
+}
+
